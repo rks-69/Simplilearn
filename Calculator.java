@@ -30,6 +30,7 @@ public class Calculator
                 System.out.println("Wrong operator encountered!!!");
                 return;
         }
-        System.out.println(num1+" "+ch+" "+num2+" "+output);
+        System.out.println(num1+" "+ch+" "+num2+" = "+output);
+        sc.close();
     }
 }

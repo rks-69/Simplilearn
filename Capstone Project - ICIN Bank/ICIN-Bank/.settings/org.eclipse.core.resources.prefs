@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/resources/templates/betweenAccounts.html=UTF-8
+encoding//src/main/resources/templates/deposit.html=UTF-8
+encoding//src/main/resources/templates/toSomeoneElse.html=UTF-8
+encoding//src/main/resources/templates/withdraw.html=UTF-8
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8
